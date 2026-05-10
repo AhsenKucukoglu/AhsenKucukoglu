@@ -75,14 +75,177 @@ Full Stack Developer | Cyber Security Researcher | AI Engineer
 
 ---
 
-# 🇮🇱 AI & Cyber Focus
+---
+
+# 🇮🇱 Israel Cyber Security Trainings
 
 ```yaml
-Focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Cyber Security Engineering
+Programs:
+  - Unit 8200 Methodologies
   - Threat Intelligence
-  - AI Security Systems
-  - Cloud Security
+  - Malware Analysis
+  - OSINT Operations
+  - Cyber Warfare
   - Red Team Operations
+  - Blue Team Operations
+  - SOC Infrastructure
+  - Incident Response
+  - Cloud Security
+  - AI Security Systems
+```
+
+---
+
+# 🚀 Advanced Cyber Security & AI Research
+
+```yaml
+Advanced Topics:
+  - Advanced Persistent Threat (APT) Analysis
+  - Zero-Day Vulnerability Research (Theoretical & Defensive)
+  - Reverse Engineering (Malware & Binary Analysis)
+  - Kernel-Level Security & Exploit Mitigation
+  - Memory Forensics & Volatile Data Analysis
+  - AI-Powered Threat Detection Systems
+  - Adversarial Machine Learning
+  - LLM Security & Prompt Injection Defense
+  - Cloud Attack Surface Mapping (AWS / Azure / GCP)
+  - Container Escape & Kubernetes Security Hardening
+  - EDR / XDR Evasion Techniques (Defensive Simulation Only)
+  - Threat Intelligence Automation Pipelines
+```
+
+---
+
+# 🧠 Research & Lab Focus
+
+```yaml
+Labs:
+  - Cyber Range Simulations
+  - Red Team vs Blue Team Scenarios
+  - SOC Detection Engineering Labs
+  - Digital Forensics Investigations
+  - OSINT Intelligence Gathering Exercises
+  - Secure AI Model Testing Environments
+
+Tools & Stack:
+  - SIEM Systems (Splunk, Elastic Security)
+  - EDR/XDR Platforms
+  - Wireshark / Zeek Network Analysis
+  - Ghidra / IDA Pro (Reverse Engineering)
+  - MITRE ATT&CK Framework Mapping
+  - Python Security Automation Scripts
+```
+
+---
+
+# ⚙️ Engineering Mindset
+
+```txt
+Focus:
+Build systems that are:
+- Observable
+- Defensible
+- Scalable
+- Resilient against modern threats
+- AI-enhanced for detection & response
+```
+
+---
+
+# 👁️ Computer Vision & Biometric AI Systems
+
+```yaml
+ComputerVision:
+  - Face Detection (Haar Cascades / CNN-based models)
+  - Facial Recognition (Feature Embedding based models)
+  - Object Detection (YOLO / SSD / Faster R-CNN)
+  - Image Classification (Deep Learning)
+  - Real-Time Video Processing
+
+BiometricSystems:
+  - Identity Verification (Face Recognition Systems)
+  - Fingerprint Pattern Recognition (Conceptual)
+  - Iris Recognition (Research Level)
+  - Multi-Factor Authentication Systems
+  - Liveness Detection / Anti-Spoofing
+
+AIModels:
+  - Convolutional Neural Networks (CNN)
+  - Face Embedding Models (ArcFace / FaceNet concept)
+  - Transfer Learning for Vision Tasks
+  - Edge AI Deployment (Real-time inference)
+```
+
+---
+
+# 🧠 AI Security Layer
+
+```yaml
+SecurityResearch:
+  - Deepfake Detection Systems
+  - Adversarial Attacks on Vision Models
+  - Privacy-Preserving Machine Learning
+  - Ethical AI in Surveillance Systems
+  - Model Robustness & Bias Analysis
+```
+
+---
+
+# 🌐 Applied Security, AI & Education Systems
+
+```yaml
+Education & Training:
+  - Women in Technology Education Programs
+  - Cyber Security Instructor / Mentor Roles
+  - Early Warning & Threat Detection Education
+  - Digital Safety Awareness Training
+  - Cyber Security Fundamentals Teaching
+
+Detection & Security Systems:
+  - Drone Detection & Airspace Monitoring Systems
+  - Early Threat Detection & Alert Systems
+  - Critical Infrastructure Monitoring Systems
+  - Real-Time Security Intelligence Systems
+  - Risk Prediction & Prevention Models
+
+AI, Vision & Privacy Systems:
+  - Face Detection & Privacy-Preserving Recognition Systems
+  - Anonymous Identity Protection in Visual Data
+  - Biometric Security & Identity Verification Systems
+  - Deepfake Detection & Media Integrity Systems
+  - Secure Computer Vision Applications
+
+Platform & Data Security:
+  - Digital Platform Security Architecture
+  - Data Leak Prevention Systems
+  - Account Security & Fraud Detection Systems
+  - User Privacy Protection Frameworks
+  - Secure Content Access Control Systems
+
+Languages:
+  - Turkish (Native)
+  - English
+  - French
+  - Russian
+  - Hebrew
+```
+
+---
+
+# 🧠 Technical Focus Areas
+
+```txt
+- Cyber Defense Engineering
+- AI Security Systems
+- Computer Vision Applications
+- Threat Intelligence Automation
+- Cloud Security Architecture
+- Privacy & Data Protection Systems
+```
+
+---
+
+<p align="center">
+  <img src="https://flagcdn.com/w80/tr.png" height="40"/>
+  <img src="https://flagcdn.com/w80/il.png" height="40"/>
+</p>
